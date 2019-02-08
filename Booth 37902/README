@@ -1,3 +1,36 @@
 37902-50: Foundations of Advanced Quantitative Marketing
 
 Python code to implement each of the models discussed in the class
+
+PS1:
+1) Estimate the parameters of the simple logit model 
+2) Compute standard errors for your estimates
+
+PS2:
+
+1) Nested logit model
+   (i) brands 1 and 4 in one next and 3 and 2 in another; 
+   (ii) 1 and 2 in one nest and 3 and 4 in another. 
+2) Compute the cross-elasticity matrix
+
+PS3:
+1) Compute the nested logit elasticities (if you haven’t already done so)
+
+2) Try out the IIA tests
+
+3) Work on the observable heterogeneity model – both a priori and with interactions 
+
+4) Latent-segment / latent-class / discrete heterogeneity model with 2 segments
+
+
+PS4:
+
+1) Complete the discrete segment case 
+
+2) Try 2, 3, 4, and 5 segments.BIC criterion
+
+3) Compute the elasticities and show how IIA is now violated at the aggregate
+
+4) Compute the posterior assignment and compare the size of the a priori segment sizes to the numbers allocated to the segments.
+
+5) Try the concomitant variable model.
