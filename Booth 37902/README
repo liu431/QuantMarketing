@@ -34,3 +34,10 @@ PS4:
 4) Compute the posterior assignment and compare the size of the a priori segment sizes to the numbers allocated to the segments.
 
 5) Try the concomitant variable model.
+
+PS5 - RCM
+1) Estimate the continuous RC model. Try different numbers of draws as well as antithetic draws. 
+
+2) Try computing the elasticities and posterior parameter estimates for each household.
+
+3) K means cluster based on these estimates and compare with assignments from the discrete heterogeneity case.
