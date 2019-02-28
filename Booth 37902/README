@@ -46,3 +46,5 @@ PS5 - Factor Attributes Model
 With the OJ data try to estimate the factor map under the continuous case.
 
 PS6 - BLP Model for Aggregate Data
+
+PS7: Control function approach (Petrin & Train, JMR) to account fot endogeneity with aggregate data
