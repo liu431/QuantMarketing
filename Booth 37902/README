@@ -27,7 +27,7 @@ PS4:
 
 1) Complete the discrete segment case 
 
-2) Try 2, 3, 4, and 5 segments.BIC criterion
+2) Try 2, 3, 4, and 5 segments; BIC criterion
 
 3) Compute the elasticities and show how IIA is now violated at the aggregate
 
@@ -48,3 +48,12 @@ With the OJ data try to estimate the factor map under the continuous case.
 PS6 - BLP Model for Aggregate Data
 
 PS7: Control function approach (Petrin & Train, JMR) to account fot endogeneity with aggregate data
+
+PS8:
+1) Bayesian learning model (physician detailing datasets and ED category)
+
+2) Allow for some unobserved heterogeneity across physicians with RC model 
+
+3) Account for risk aversion
+
+4) Accommodate forgetting in the model 
