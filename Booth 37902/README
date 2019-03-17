@@ -50,10 +50,12 @@ PS6 - BLP Model for Aggregate Data
 PS7: Control function approach (Petrin & Train, JMR) to account fot endogeneity with aggregate data
 
 PS8:
+With PhysicDiff data:
 1) Bayesian learning model (physician detailing datasets and ED category)
 
 2) Allow for some unobserved heterogeneity across physicians with RC model 
 
+With ED Category data:
 3) Account for risk aversion
 
 4) Accommodate forgetting in the model 
