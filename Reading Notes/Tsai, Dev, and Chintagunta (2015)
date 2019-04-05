@@ -1,3 +1,4 @@
+
 The paper by Tsai, Dev, and Chintagunta (2015) provides new insight into the rebranding question in empirical marketing literature. The research question they address is: what’s the effect of rebranding on firms performance (such as profits and revenues)? They focus on the hospitality industry (namely, hotels in the United States) and build linear models to quantify the outcome of rebranding by separating it into the brand as well as property-brand interaction effects.
 
 The data in the paper covers characteristics and business information of franchised hotels in the U.S. spanning from 1994 to 2012. The source is the PKF Hospitality Research annual national survey of the hotel industry. The available features are the business name, affiliation, characteristics (e.g. has restaurant/spa/golf course or not), average daily rate, the percentage of occupied rooms, franchise fees, and so on.
