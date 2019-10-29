@@ -2,12 +2,12 @@
 
 ### Python code to implement each of the models discussed in the class
 
-PS1:
+#### PS1: Logit Model
 
 1) Estimate the parameters of the simple logit model 
 2) Compute standard errors for your estimates
 
-PS2:
+#### PS2: Nested Logit Model
 
 1) Nested logit model
 
@@ -20,7 +20,7 @@ PS2:
    
 2) Compute the cross-elasticity matrix
 
-PS3:
+#### PS3: Heterogeneity Model
 
 1) Compute the nested logit elasticities 
 
@@ -31,7 +31,7 @@ PS3:
 4) Latent-segment / latent-class / discrete heterogeneity model with 2 segments
 
 
-PS4:
+#### PS4: Heterogeneity Model with Segments
 
 1) Complete the discrete segment case 
 
@@ -43,9 +43,8 @@ PS4:
 
 5) Try the concomitant variable model.
 
-PS5:
 
-Random Coefficients Model
+#### PS5a: Random Coefficients Model
 
 1) Estimate the continuous RC model. Try different numbers of draws as well as antithetic draws. 
 
@@ -53,23 +52,25 @@ Random Coefficients Model
 
 3) K means cluster based on these estimates and compare with assignments from the discrete heterogeneity case.
 
-Factor Attributes Model
+
+#### PS5b: Factor Attributes Model
 
 With the OJ data try to estimate the factor map under the continuous case.
 
-PS6:
 
-BLP Model for aggregate data
+#### PS6: BLP Model for aggregate data
 
-PS7:
+
+#### PS7: Control Function
 
 Control function approach (Petrin & Train, JMR) to account for endogeneity with aggregate data
 
 Household Data: margarine dataset
 
-PS8:
 
-With PhysicDiff data (in Stata):
+#### PS8: Bayesian Learning
+
+* With PhysicDiff data (in Stata):
 
 1) Bayesian learning model (physician detailing datasets)
 
@@ -81,6 +82,6 @@ With ED Category data:
 
 3) Account for risk aversion
 
-Are physicians more risk averse for Cialis than they are for Levitra? (Note that this requires you to allow gamma to vary across the 2 drugs – not typical but this is just an exercise)
+* Are physicians more risk averse for Cialis than they are for Levitra? (Note that this requires you to allow gamma to vary across the 2 drugs – not typical but this is just an exercise)
 
 4) Accommodate forgetting in the model 
