@@ -78,10 +78,10 @@ Data: ED category (no learning for Viagra, only for Levitra and Cialis)
 
 2) Allow for some unobserved heterogeneity across physicians with RC model – either the LC model or the RC model works here.
 
-With ED Category data:
+* With ED Category data:
 
 3) Account for risk aversion
 
-* Are physicians more risk averse for Cialis than they are for Levitra? (Note that this requires you to allow gamma to vary across the 2 drugs – not typical but this is just an exercise)
+Are physicians more risk averse for Cialis than they are for Levitra? (Note that this requires you to allow gamma to vary across the 2 drugs – not typical but this is just an exercise)
 
 4) Accommodate forgetting in the model 
