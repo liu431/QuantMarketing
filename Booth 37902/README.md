@@ -85,3 +85,10 @@ Data: ED category (no learning for Viagra, only for Levitra and Cialis)
 Are physicians more risk averse for Cialis than they are for Levitra? (Note that this requires you to allow gamma to vary across the 2 drugs – not typical but this is just an exercise)
 
 4) Accommodate forgetting in the model 
+
+### Dataset:
+
+PS1~4: Yogurt100N
+PS5: OJ300, Yogurt100N
+PS6~7: CoffeeData
+PS8: PhyDiff, ED
